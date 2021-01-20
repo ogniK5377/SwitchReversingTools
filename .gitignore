@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Vscode
+.vscode
+
+# Virtual env
+activate_venv.bat
