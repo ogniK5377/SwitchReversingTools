@@ -2,6 +2,8 @@ import sys
 from colorama import init, Fore, Back, Style
 init()
 
+# Code gen from https://github.com/envytools/envytools/blob/master/envydis/gm107.c
+
 OP8B = "OP8B"
 REG_00 = "REG_00"
 REG_08 = "REG_08"
